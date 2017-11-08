@@ -8,5 +8,6 @@ public class FuncprogramspringgttmApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FuncprogramspringgttmApplication.class, args);
+
 	}
 }
